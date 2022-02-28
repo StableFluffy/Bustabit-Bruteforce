@@ -6,7 +6,7 @@ from multiprocessing import Process, Queue
 THREADS = 4
 
 def program(cc):
-    TARGET = "3d88f33ea73723e27650162c48844aee16956c8067ebc1c3790cc8ea2f13def2"
+    TARGET = "3ba12a9bc2deba608d678a2a449ca7874c4df22588eb593e5150b6f3caf9f81d" #Game 5728987
     STRING_POOL = "1234567890abcdef"
 
     generated_seed = ""
